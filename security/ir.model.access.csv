@@ -17,5 +17,6 @@ access_res_partner_bolge,orgut_yonetimi.res_partner,base.model_res_partner,orgut
 access_res_partner_il,orgut_yonetimi.res_partner,base.model_res_partner,orgut_yonetimi.orgut_il_sorumlusu,1,0,0,0
 access_res_partner_ilce,orgut_yonetimi.res_partner,base.model_res_partner,orgut_yonetimi.orgut_ilce_sorumlusu,1,1,1,0
 
+access_yargitay_status,orgut_yonetimi.yargitay_status,model_yargitay_status,orgut_yonetimi.orgut_bolge_sorumlusu,1,1,1,0
 
 

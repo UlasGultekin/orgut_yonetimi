@@ -28,6 +28,7 @@
         'views/orgut_region_views.xml',
         'views/orgut_state_views.xml',
         'views/orgut_city_views.xml',
+        'views/yargitay_status_views.xml',
         'views/res_partner_inherit_views.xml',
         'views/orgut_yonetimi_menuitem.xml',
         # 'security/ir.model.access.csv',

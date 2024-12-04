@@ -23,5 +23,11 @@
                   action="action_orgut_city"
                   sequence="30"
                   groups="orgut_yonetimi.orgut_ilce_sorumlusu"/>
+        <menuitem id="menu_yargitay"
+                  name="Yargıtay Durumları"
+                  parent="menu_orgut_yonetimi_root"
+                  action="action_yargitay_status"
+                  sequence="40"
+                  groups="orgut_yonetimi.orgut_ilce_sorumlusu"/>
     </data>
 </odoo>
